@@ -121,7 +121,7 @@ LIMIT 5;
 
 <b> Output: </b> 
 
-![image](https://github.com/user-attachments/assets/479cdad0-b7d4-4bf5-826a-cfe7de455e5d)
+![image](https://github.com/user-attachments/assets/2fc44d0a-59c8-4754-a7f2-1b249d469ecb)
 
 ### Year-wise revenue (2015 - 2018)
 
